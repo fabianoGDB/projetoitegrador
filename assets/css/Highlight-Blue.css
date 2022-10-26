@@ -1,0 +1,38 @@
+.highlight-blue {
+  color: #fff;
+  padding: 50px 0;
+}
+
+.highlight-blue p {
+  color: #c4d5ef;
+  line-height: 1.5;
+}
+
+.highlight-blue h2 {
+  margin-bottom: 25px;
+  line-height: 1.5;
+  padding-top: 0;
+  margin-top: 0;
+  color: inherit;
+}
+
+.highlight-blue .intro {
+  max-width: 991px;
+  margin: 0 auto 25px;
+}
+.highlight-blue .navbar .navbar-collapse span {
+  color: #d9d9d9;
+  margin-right: .5rem;
+  text-decoration: none;
+}
+.highlight-blue .highlight-blue{
+  border: 2px solid rgba(255,255,255,0.7);
+  border-radius: 6px;
+  color: #ebeff1;
+  box-shadow: none;
+  text-shadow: none;
+  padding: 14px 24px;
+  background: transparent;
+  transition: background-color 0.25s;
+}
+
